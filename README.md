@@ -1,1 +1,1 @@
-# Computer-Vision---fece-detection-in-photos
+# Computer-Vision---face-detection-in-photos
